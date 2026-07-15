@@ -1,4 +1,4 @@
-# LoanClassification
+# Loan Approval Classification Model
 ## 1. Project Overview
 This project utilizes a machine learning algorithm (Logistic Regression) to classify if a person will be 'approved' or 'denied' a loan. The dataset includes 60 rows of data taken from Kaggle.
 
