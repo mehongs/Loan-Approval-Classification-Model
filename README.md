@@ -2,7 +2,7 @@
 ## 1. Project Overview
 This project utilizes a machine learning algorithm (Logistic Regression) to classify if a person will be 'approved' or 'denied' a loan. The dataset includes 60 rows of data taken from Kaggle.
 
-Given the small sample size of the dataset, this analysis primarily focuses on understanding the core machine learning workflows and exploring data science libraries (such as Pandas and Scikit-Learn).
+Given the small sample size of the dataset, this analysis primarily focuses on understanding core machine learning workflows and exploring data science libraries (such as Pandas and Scikit-Learn).
 
 ## 2. Technical Workflow
 **Data Preprocessing:** Scanned the dataset for any missing values and used one-hot encoding on categorical values to optimize for Logisitic Regression.
